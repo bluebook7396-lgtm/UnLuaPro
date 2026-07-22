@@ -1,0 +1,29 @@
+# Unreal Engine - generated files
+Binaries/
+Intermediate/
+DerivedDataCache/
+Saved/
+
+# Visual Studio
+.vs/
+.idea/
+*.opensdf
+*.sdf
+*.sln.DotSettings.user
+*.suo
+*.VC.db
+*.VC.VC.opendb
+
+# UE Build
+Build/
+*.target.xml
+*.modules
+
+# Content (optional - uncomment if you don't want to track content assets)
+# Content/
+
+# OS files
+Thumbs.db
+.DS_Store
+*.swp
+*~
